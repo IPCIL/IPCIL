@@ -1,2 +1,0 @@
-# IPCIL
- Research Website
